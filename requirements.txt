@@ -1,4 +1,3 @@
 ﻿Flask
 flask-cors
-tensorflow
-gunicorn
+tensorflow==2.15.0
